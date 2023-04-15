@@ -20,6 +20,6 @@ git checkout -B main
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com main:gh-pages
+git push -f https://github.com/Nocab7714/final-bootstrap5-nocab7714.git main:gh-pages
 
 cd -
