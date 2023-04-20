@@ -68,7 +68,7 @@
         <div class="d-flex justify-content-center flex-column flex-md-row flex-wrap">
           <div class="d-flex flex-md-row flex-column mx-3 align-items-center mb-5 mb-xl-0">
             <img
-              class="mb-md-0 me-md-4 mb-4"
+              class="mb-md-0 me-md-4 mb-4 img-fluid"
               src="https://i.im.ge/2023/04/01/I5Zy1G.link01.webp"
               alt="兩隻不同顏色的手在握手"
               width="200"
@@ -86,7 +86,7 @@
           </div>
           <div class="d-flex flex-md-row flex-column mx-3 align-items-center">
             <img
-              class="mb-md-0 me-md-4 mb-4"
+              class="mb-md-0 me-md-4 mb-4 img-fluid"
               src="https://i.im.ge/2023/04/01/I5ZxXJ.link02.webp"
               alt="一隻手在棕色狗的下巴下面"
               width="200"
