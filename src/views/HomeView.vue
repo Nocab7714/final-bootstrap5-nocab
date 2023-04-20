@@ -336,8 +336,16 @@ export default {
 .header-title {
   font-family: var(--bs-font-family-Kalam);
   color: #848975;
-  text-shadow: -4.5px 0 #fff, 0 4.5px #fff, 4.5px 0 #fff, 0 -4.5px #fff;
+  z-index: 2;
+
+  &::before {
+    content: 'Full of fur. full of love';
+    position: absolute;
+    -webkit-text-stroke: 10px #fff;
+    z-index: -1;
+  }
 }
+
 .server-img-hover-item-shadow {
   opacity: 0;
   transition: all 0.5s;
