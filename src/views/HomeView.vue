@@ -321,12 +321,6 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'bootstrap/scss/functions';
-@import '../assets/helpers/variables';
-@import 'bootstrap/scss/maps';
-@import 'bootstrap/scss/mixins';
-@import '../assets/helpers/utilities';
-
 .header {
   background-image: url('https://i.im.ge/2023/04/01/I5ZCKa.home-mobile.webp');
   height: 634px;

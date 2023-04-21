@@ -160,12 +160,6 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'bootstrap/scss/functions';
-@import '../assets/helpers/variables';
-@import 'bootstrap/scss/maps';
-@import 'bootstrap/scss/mixins';
-@import '../assets/helpers/utilities';
-
 .server-img-hover-item-shadow {
   opacity: 0;
   transition: all 0.5s;

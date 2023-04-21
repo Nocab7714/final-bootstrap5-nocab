@@ -162,12 +162,6 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'bootstrap/scss/functions';
-@import '../assets/helpers/variables';
-@import 'bootstrap/scss/maps';
-@import 'bootstrap/scss/mixins';
-@import '../assets/helpers/utilities';
-
 .header-banner-sm {
   display: block;
 }

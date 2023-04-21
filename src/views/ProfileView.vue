@@ -85,12 +85,6 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'bootstrap/scss/functions';
-@import '../assets/helpers/variables';
-@import 'bootstrap/scss/maps';
-@import 'bootstrap/scss/mixins';
-@import '../assets/helpers/utilities';
-
 .title-img {
   width: 150px;
   height: 80px;

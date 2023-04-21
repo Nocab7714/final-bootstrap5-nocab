@@ -111,12 +111,6 @@
   </div>
 </template>
 <style lang="scss">
-@import 'bootstrap/scss/functions';
-@import '../assets/helpers/variables';
-@import 'bootstrap/scss/maps';
-@import 'bootstrap/scss/mixins';
-@import '../assets/helpers/utilities';
-
 // 修正 navbar 使用 .fixed top 被吃掉的空間
 .navbar-fixed-height {
   margin-top: 64px;
