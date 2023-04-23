@@ -17,15 +17,11 @@
                 <div class="mb-4 mb-md-5">
                   <div class="row">
                     <dt class="col-6 col-md-4">品種｜哈士奇</dt>
-                    <dd class="col-6 col-md-4">年紀｜2個月</dd>
-                  </div>
-                  <div class="row">
+                    <dd class="col-6">年紀｜2個月</dd>
                     <dt class="col-6 col-md-4">性別｜公</dt>
-                    <dd class="col-6 col-md-4">結紮｜已結紮</dd>
-                  </div>
-                  <div class="row">
+                    <dd class="col-6">結紮｜已結紮</dd>
                     <dt class="col-6 col-md-4">體型｜大型</dt>
-                    <dd class="col-6 col-md-4">狂犬病疫苗｜已施打</dd>
+                    <dd class="col-6">狂犬病疫苗｜已施打</dd>
                   </div>
                 </div>
 
