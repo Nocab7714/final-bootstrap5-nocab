@@ -51,6 +51,7 @@
               <router-link
                 class="nav-link bg-primary fw-bold rounded-pill navbar-btn-hover px-5 mx-4"
                 to="/order"
+                style="color: var(--bs-secondary)"
                 >毛孩似顏繪</router-link
               >
             </li>
@@ -125,15 +126,6 @@
 .logo {
   height: 32px;
   width: 95px;
-}
-
-nav {
-  // .router-link-exact-active {
-  //   color: var(--bs-primary);
-  // }
-  // .router-link-active {
-  //   color: var(--bs-primary);
-  // }
 }
 
 @include media-breakpoint-up(md) {
