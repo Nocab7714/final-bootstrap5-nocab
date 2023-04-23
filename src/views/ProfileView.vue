@@ -49,12 +49,20 @@
                 height="424"
               />
               <div class="card-body text-start">
-                <p class="mb-0">收容所</p>
-                <p class="fw-bold">高雄浪流連途之家</p>
-                <p class="mb-0">電話</p>
-                <p class="fw-bold">07-123999</p>
-                <p class="mb-0">地址</p>
-                <p class="fw-bold">高雄市三民區河中三路123號</p>
+                <ul class="list-unstyled">
+                  <li>
+                    <p class="mb-0">收容所</p>
+                    <p class="fw-bold">高雄浪流連途之家</p>
+                  </li>
+                  <li>
+                    <p class="mb-0">電話</p>
+                    <p class="fw-bold">07-123999</p>
+                  </li>
+                  <li>
+                    <p class="mb-0">地址</p>
+                    <p class="fw-bold">高雄市三民區河中三路123號</p>
+                  </li>
+                </ul>
                 <a
                   href="#"
                   class="btn btn-primary rounded-pill fs-4 px-5 fs-5 w-100 mb-3"
